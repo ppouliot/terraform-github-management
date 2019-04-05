@@ -1,2 +1,2 @@
-# terraform-github_management
+# terraform-github-management
 Terraform to Manage GitHub Organizations
